@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'genetic_algorithm'
 
 # Demo of genetic_algorithm gem showcasing the Weasel Program
